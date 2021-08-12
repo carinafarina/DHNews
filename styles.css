@@ -1,0 +1,14 @@
+body{
+    font-family: Arial;
+    background-image: url(saladeaula.jpg);
+}
+
+p {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h1{
+    color: red;
+    font-style: oblique;
+}
